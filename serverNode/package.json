@@ -1,0 +1,16 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "sever for Dolos",
+  "license": "ISC",
+  "author": "Andrew stanwix",
+  "type": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node": "^26.11.1"
+  },
+  "devDependencies": {}
+}
